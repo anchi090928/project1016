@@ -1,0 +1,6 @@
+{
+  "name": "眼鏡樣品總表智能解析與規格管理系統",
+  "description": "眼鏡樣品總表智能辨識與格式正規化、多維度規格比對、版本變更追蹤及自動化錯誤檢測與 Excel 匯出系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
